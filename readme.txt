@@ -1,0 +1,1 @@
+This is a simple text document to explain a static website created for a RESUME
